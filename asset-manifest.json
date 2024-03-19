@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw4-forms-hex2rgb/static/css/main.96f110c7.css",
+    "main.js": "/react-hw4-forms-hex2rgb/static/js/main.34ea3cf6.js",
+    "static/js/453.d850772c.chunk.js": "/react-hw4-forms-hex2rgb/static/js/453.d850772c.chunk.js",
+    "index.html": "/react-hw4-forms-hex2rgb/index.html",
+    "main.96f110c7.css.map": "/react-hw4-forms-hex2rgb/static/css/main.96f110c7.css.map",
+    "main.34ea3cf6.js.map": "/react-hw4-forms-hex2rgb/static/js/main.34ea3cf6.js.map",
+    "453.d850772c.chunk.js.map": "/react-hw4-forms-hex2rgb/static/js/453.d850772c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f110c7.css",
+    "static/js/main.34ea3cf6.js"
+  ]
+}
